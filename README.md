@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Swapnil's GitHub Banner](./datamine/banner.png)](https://www.wikipedia.com)
+[![Swapnil's GitHub Banner](./banner.png)](https://www.wikipedia.com)
 
 ## 👨‍💻 Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
