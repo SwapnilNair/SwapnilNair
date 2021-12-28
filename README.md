@@ -54,3 +54,11 @@ Here are some ideas to get you started:
   <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
+## Stats
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=SwapnilNair&count_private=true&theme=react&showicons=true)]()
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SwapnilNair&langs_count=5&theme=react)]()
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SwapnilNair&theme=react)](https://git.io/streak-stats)
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=SwapnilNair&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
