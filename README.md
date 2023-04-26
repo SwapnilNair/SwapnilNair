@@ -64,6 +64,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SwapnilNair&theme=react)](https://git.io/streak-stats)
 
-[![Swapnil's github activity graph](https://activity-graph.herokuapp.com/graph?username=SwapnilNair&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Swapnil's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SwapnilNair&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## I love Dark Humour.
