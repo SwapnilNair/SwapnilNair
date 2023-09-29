@@ -43,3 +43,10 @@
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Thinkpad](https://img.shields.io/badge/AMD-Ryzen_7_5500U-ED1C24?style=for-the-badge&logo=Linux&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
+
+### Visitor Counter
+![VisitorCounter](https://profile-counter.glitch.me/SwapnilNair/count.svg)
+
+> Thank you for visiting.
+
+<img src = "https://readme-jokes.vercel.app/api?theme=graywhite">
