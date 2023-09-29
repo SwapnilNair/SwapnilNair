@@ -1,9 +1,14 @@
 # This page is being updated.
 
-<!--
-**SwapnilNair/SwapnilNair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+### What I do.
+**Currently a student, open to work. I love working with data - deep diving into it in the hopes of unearthing little pearls of insights from within. Data Engineering and Cloud Computing are what I like along with API Development & Big Data Analytics. Building end-to-end pipelines on distributed systems is what I consider enjoyable**
 
+**You will find me fixing servers at the Cloud Computing center, organizing Hackathons, generating mock datasets, reading, bombarding people with trivia or narrating comicallly absurd tales**
+
+### What I also do.
+**Apart from core tech, I'm also adept at Business Analytics and Problem Solving in general. Excel, Slide Decks and pitching are second nature thanks to my interests in Finance, Business and Debating. I like to call myself a Generalist who would like to become a Generalized Specialist in the coming years.**
+
+### Learn more about me on my website [rvce.in](https://rvce.in)
 
 ## Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -47,6 +52,4 @@
 ### Visitor Counter
 ![VisitorCounter](https://profile-counter.glitch.me/SwapnilNair/count.svg)
 
-> Thank you for visiting.
-
-<img src = "https://readme-jokes.vercel.app/api?theme=graywhite">
+> Thank you for visiting!
