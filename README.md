@@ -1,16 +1,9 @@
-# Houston, here's my info...
+# This page is being updated.
 
 <!--
 **SwapnilNair/SwapnilNair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## Favourite repos
-
-<a href="https://github.com/SwapnilNair/SafariFox">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SwapnilNair&repo=SafariFox&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br/>
 
 ## Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -50,24 +43,3 @@
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Thinkpad](https://img.shields.io/badge/AMD-Ryzen_7_5500U-ED1C24?style=for-the-badge&logo=Linux&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
-## Find me at :
-<a href="https://www.linkedin.com/in/swapnil-nair-015917203/">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white?"/>
-</a>
-<a href="https://swapnilnair747@gmail.com">
-  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.instagram.com/">
-  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-## Statistics
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=SwapnilNair&count_private=true&theme=react&showicons=true)]()
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SwapnilNair&langs_count=5&theme=react)]()
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SwapnilNair&theme=react)](https://git.io/streak-stats)
-
-[![Swapnil's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SwapnilNair&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## I love Dark Humour.
