@@ -3,16 +3,13 @@
 <!--
 **SwapnilNair/SwapnilNair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-[![Swapnil's GitHub Banner](./banner.png)](https://www.wikipedia.com)
 
 ## Favourite repos
+
 <a href="https://github.com/SwapnilNair/SafariFox">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SwapnilNair&repo=SafariFox&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/vinceliuice/WhiteSur-gtk-theme">
-  <img align="center" style="margin:1rem 0.5rem " src="https://github-readme-stats.vercel.app/api/pin/?username=vinceliuice&repo=WhiteSur-gtk-theme&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" height/>
-</a>
 <br/>
 
 ## Languages
