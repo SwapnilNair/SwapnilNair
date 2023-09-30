@@ -65,3 +65,5 @@
 ![VisitorCounter](https://profile-counter.glitch.me/SwapnilNair/count.svg)
 
 > Thank you for visiting!
+
+[Send me a message](https://www.rvce.in/contact/). No login required.
